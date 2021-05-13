@@ -5,7 +5,7 @@ const ContactPage = () => {
     return (
         <div className="project-section-padding row m-5">
             <div className="col-md-6 offset-md-3 form-box">
-                <form className="py-4 px-3 text-white" action="https://formspree.io/f/myylkjql" method="post">
+                <form className="py-4 px-3 text-white" action="https://formspree.io/f/mdoyeell" method="post">
                     <h2 className="projects-title mb-4"><span className="mono-color">Get In Touch</span></h2>
                     <div class="form-group">
                         <label for="name">Your Name</label>
@@ -22,7 +22,7 @@ const ContactPage = () => {
                     {/* <input type="hidden" name="_next" value="//alrabbi.netlify.app" /> */}
                     <button type="submit" class="btn hero-btn touch-btn py-2 w-100 mt-3">Submit</button>
                     <h5 className='pt-3'>Or</h5>
-                    <label className="projects-title mb-4">Email:<span className="mono-text mono-color"> p.yeatun@gmail.com</span></label>
+                    <label className="projects-title mb-4">Email:<span className="mono-text mono-color"> mdatiquerrahmanbd@gmail.com</span></label>
                  
 
                 </form>

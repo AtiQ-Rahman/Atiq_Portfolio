@@ -29,6 +29,9 @@ const Header = () => {
                             <NavLink exact activeClassName="active" to="/contact" className="nav-link navigation-item px-3 pr-md-4" >Contact<span className="sr-only"></span></NavLink>
                         </li>
                         <li className="nav-item">
+                            <NavLink exact activeClassName="active" to="/awards" className="nav-link navigation-item px-3 pr-md-4" >Awards<span className="sr-only"></span></NavLink>
+                        </li>
+                        <li className="nav-item">
                             <a target="_blank" rel="noopener noreferrer" className="nav-link navigation-item resume px-3 mt-2 mt-md-0 d-inline-block" href="https://drive.google.com/file/d/1BM36-bqyRFE3mXvWDVqOGoqflUEen-fl/view?usp=sharing">Resume<span className="sr-only"></span></a>
                         </li>
 

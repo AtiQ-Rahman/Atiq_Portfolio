@@ -16,6 +16,7 @@ import Blog from './Components/Blog/Blog';
 import ContactPage from './Components/ContactPage/ContactPage';
 import Footer from './Components/Footer/Footer';
 import Error from './Components/Error/Error';
+import Awards from './Components/Awards/Awards';
 // import About from './Components/About/About';
 // import ProjectsPage from './Components/ProjectsPage/ProjectsPage';
 // import Footer from './Components/Footer/Footer';
@@ -41,6 +42,9 @@ function App() {
             </Route>
             <Route exact path="/projects">
               <Projects></Projects>
+            </Route>
+            <Route exact path="/awards">
+              <Awards></Awards>
             </Route>
             <Route exact path="/blog">
               <Blog></Blog>
