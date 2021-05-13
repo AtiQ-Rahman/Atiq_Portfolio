@@ -1,0 +1,16 @@
+  
+.image-design{
+    height: 12.5rem;
+    width: 12.5rem;
+}
+.link-button-design:hover {
+    
+    background-color: var(--primary-orange)!important;
+    color: var(--primary-background)!important;
+    transform: scale(1.1);
+}
+.card-design:hover{
+    box-shadow: 2px 2px 10px #34977a;
+    transform: scale(1.1);
+    transition: .5s all ease-in-out;
+}
