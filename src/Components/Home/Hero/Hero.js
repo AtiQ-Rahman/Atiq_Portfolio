@@ -26,7 +26,7 @@ const Hero = () => {
           
             <h1 className="hero-subtitle text-white-50">
             <Typical
-        steps={[3000,'Full Stack Web Developer', 1000, ]}
+        steps={[3000,'A Technical Enthusiast', 1000, ]}
         loop={Infinity}
         wrapper="p"
       />
